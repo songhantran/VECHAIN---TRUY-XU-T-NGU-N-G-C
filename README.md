@@ -11,7 +11,7 @@ Dự án này mô phỏng chức năng **truy xuất nguồn gốc và theo dõi
 - ⚙️ Solidity ^0.8.0
 - 💻 Remix Ethereum IDE (trình duyệt)
 - 🔗 IPFS (CID mô phỏng)
-- 🧪 JavaScript VM (test nội bộ) / Sepolia Testnet (tùy chọn)
+- 🧪 Sepolia Testnet
 
 ---
 
